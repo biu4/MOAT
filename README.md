@@ -1,6 +1,9 @@
 **Fetching Data using Link:**
-To access the data, use the following link:
+You can access the data by clicking on the following link:
+
+```markdown
 [https://cdn.jsdelivr.net/gh/biu4/MOAT@main/index.html](https://cdn.jsdelivr.net/gh/biu4/MOAT@main/index.html)
+```
 
 **API Key for Azure AD Application:**
 To authenticate your application with Azure Active Directory, you'll need the following API permissions:
