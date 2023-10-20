@@ -2,7 +2,7 @@
 You can access the data by clicking on the following link:
 
 ```markdown
-[https://cdn.jsdelivr.net/gh/biu4/MOAT@main/index.html](https://cdn.jsdelivr.net/gh/biu4/MOAT@main/index.html)
+https://cdn.jsdelivr.net/gh/biu4/MOAT@main/index.html
 ```
 
 **API Key for Azure AD Application:**
